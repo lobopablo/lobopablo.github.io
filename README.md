@@ -5,5 +5,3 @@ The main goal of this project is creating a simple yet effective website. Side g
 1. Programming more often.
 2. Getting used to using git for a wider variety of projects.
 3. Presenting myself as a professional. 
-
-Clara O'Farrell's website (http://claraofarrell.github.io/) served as inspiration for this activity. 
